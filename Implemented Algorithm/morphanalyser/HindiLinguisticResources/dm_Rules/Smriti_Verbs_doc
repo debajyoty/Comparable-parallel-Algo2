@@ -1,0 +1,142 @@
+Hindi verbs take successive number of inflectional material in terms of suffixes and periphrastic forms appearing mostly at the right of verbal lexical bases. These materials appear in a particular default order. Hindi verbs can be classified into two inflecting types (like many other languages) based on their endings. These types can be called as consonant-final-roots and vowel-final-roots. The Vowel-final-roots can end in vowels like –aa, -ii, -e, -uu, or –o. Hindi verbs inflect for the following grammatical properties:
+•           Tense: Past, Present, Future
+
+•           Aspect: Habitual, progressive, perfective, completive
+
+•           Mood: Imperative, subjunctive, conditional, presumptive
+
+•           Modality: Deontic, Probabilitative, abilitative, requestative, optative
+
+•           Gender: masculine, feminine
+
+•           Number: singular, plural
+
+•           Person: 1st, 2nd, 3rd
+
+•           Honoroficity: intimate, semi-honorific, honorific
+
+•           Finiteness: finite, non-finite (participles, verbal nominals, infinitives)
+
+•           Voice: Active, Passive
+
+Tense
+
+Hindi verbs are marked for three tenses: present, past and future. Unlike languages like English which express past and present (in 3rd, -pl) synthetically, i.e., as a single morphological word whereas future is expressed analytically or as a separate word/lexeme, Hindi does the opposite, it expresses past and present tenses using the tense auxiliary ho while future is usually expressed as an inflection marked on the verb itself in absence of the auxiliary. Tense marking usually appears with a modification of the auxiliary ‘ho’ (be). Present and Past tenses are realized as modifications of the root ‘ho’ while Future clearly appears as a separate morphological marking with -g as its exponent:
+
+Present: huM, haiM, ho, hai
+
+Past:  thaa, thii, the, thiiM
+
+Future: houuM-g-aa/huuM-g-aa, houuM-g-ii/huuM-g-ii, ho-g-aa, ho-g-ii, ho-g-e, hoM-g-ii, hoM-g-e
+
+In absence of these tense auxiliaries the main verb in the verb group carries the past and future tense information. The perfective aspect is used to indicate completed actions and is usually marked with –aa or –yaa suffixes. However when there is no tense auxiliary present, the perfective aspect does indicate that the action occurred in the past and hence is considered to be marking past tense. See the example below:
+
+raam ne khaana khaa-yaa hai
+
+Ram -erg food  eat-en     has              
+
+raam ne khaana khaa-yaa thaa
+
+Ram -erg food  eat-en      had
+
+raam ne khaana khaayaa
+
+Ram -erg food   eat-past (ate)
+Future is marked using the morpheme -g which must precede an exponent of person-number marking and must be followed by gender-number marking, e.g., jaa-e-g-aa (go-2nd/3rd-future-masc,sg), jaa-uM-gii (go-1st-future-fem,sg), jaa-eM-ge (go-1st/2ndhon/3rd-future-masc,pl). Future marker -g- can combine with presumptive (ho-) to give rise to a Tense-mood combination that can semantically denote either presumptive past or presumptive future.
+
+Aspect
+
+According to Shapiro (Shapiro, Michael C. (2003), "Hindi", in Cardona, George & Dhanesh Jain, The Indo-Aryan Languages, Routledge, 250-285), Hindi verbs overtly express three aspects namely: habitual, perfective and progressive (continuous).
+
+Habitual is formed by using the imperfective (present) participle and is expressed by the exponent -t with different number, gender values like -aa (singular, masc), -ii (singular/plural, fem) and -e (plural, masc).
+
+Progressive aspect is expressed by ‘rah’ that combines with the exponents for number and gender and appears as- rahaa (masc, sg), rahe (plural, masc), rahii (fem, sg/pl).
+
+Perfective form appears as a cumulative exponence of the past participle form and number, gender agreement markers, e.g., -yaa, -yii, -ye for vowel-final-roots with masc, singular and fem, singular/plural and masc, plural respectively and -aa, -ii and -e for consonant-final-roots (VC) and the roots that end in the vowel –uu (Vuu).
+
+ The perfective form and the past finite form of verb show syncretism and inflect based on different gender-number values. The forms do not show any person marking as the perfect participle form always (in cases like “Raam ne chhiinkaa”, where ‘chhiink’ is an intransitive verb, the verb takes the default gender-number value, i.e. sg, masc) agrees with the object which is always 3rd person. Irregular forms for verbs like- jaa and kar undergo root modification.
+
+Feature Representation:
+
+
+imperative -> +imperative, ±neutral
+
+intimate -> -neutral, +intimate
+
+semi-hon -> -neutral, -intimate, -polite
+
+hon -> -neutral, -intimate, +polite
+
+ 
+
+Conditional -> +conditional
+
+Subjunctive with ho -> +subjunctive
+
+Abilititative -> +ability
+
+Probabilitative -> +probability
+
+Obligation -> +obligation
+
+Necessity -> +necessity
+
+Permissive -> +permissive
+
+ 
+
+Number
+
+Singular -> -pl
+
+Plural -> +pl
+
+ 
+
+Gender
+
+Masculine -> +masc
+
+Feminine -> -masc
+
+ 
+
+Person
+
+1st person -> 1p
+
+2nd person -> 2p
+
+3rd person -> 3p
+
+ 
+
+AGR
+
+Fused person-number marking (pnr) -> AGR1
+
+Fused gender-number marking (gnr) -> AGR2
+
+ 
+
+Verb types- based on their endings
+
+Consonant ending -> +VC
+
+Non-consonant ending -> -VC
+
+Ending in the vowel /ii/ -> Vii
+
+Ending in the vowel /uu/ -> Vuu
+
+Ending in the vowel /e/ -> Ve
+
+Ending in the vowel /aa/ -> Vaa
+Morpheme ordering of verbal morphemes
+
+ 
+
+The order is:
+
+Main verb> Inf> modal > AGR1> perfective aspect > passive marker > imperfective aspect> AGR2 > mood > tense >AGR2
+

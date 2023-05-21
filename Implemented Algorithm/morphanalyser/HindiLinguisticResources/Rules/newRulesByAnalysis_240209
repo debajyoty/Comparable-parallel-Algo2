@@ -1,0 +1,61 @@
+I implemented the system according to the new rules and got results for one test file (Test 1). Accuracy is 95.25% (CRF's accuracy is 95.62%).  Followings are the observations :
+
+1. The rule (SRR : remove  ी and add र) we added to handle (की -> कर) is crating problem in cases like :
+   1) भी (--> भर) marked verb. --> 10 cases.
+   2) डी (--> डर) marked verb. --> 1 case.
+   3) ही (--> हर) marked verb. --> 1 case.    DONE
+
+2. No rule for having ले after Main verb suffix " ा " . cases : " ... खाली करा लिया गया ", " ... हटा लिया गया ".  : 5 errors    add it ( passive const.)   DONE
+
+3. No rule for having रह after Main verb suffix "  ी ". case : " ... शान्ति बनी रही और ... ".      in doubt .  
+
+4. No rule for सक after Main verb suffix " ा ". cases : " ... हटा सकती है ", " ... ठहरा सकते हैं ".     add it .  DONE
+
+5. No rule for चुक after Main verb suffix " ा ". case : " ... तीन चौके लगा चुके हैं " .   add it . DONE
+
+6. No rule for चाह after Main verb suffix " ना ". case : " ... प्रयास करना चाहिए " .  add it as ना + चाहिए,  नी + चाहिए,  --  + चाहिए  DONE
+
+7. No rule for चाह after Main verb suffix " नी ". case : " ... निर्धारित होनी चाहिए " . done  DONE
+
+
+8. No rule for having जा after auxiliary जाया (जा + या). case : " ... ले जाया जा सकता था".   add it .  DONE
+
+9. No rule for having हैं after auxiliary चुकीं (चुक +  ीं). case : " ... प्रधानमन्त्री रह चुकीं हैं".   add it .  DONE
+
+10. No rule for having हैं after auxiliary  रहीं (रह +  ीं). case : " ... खूबसूरत लग रहीं हैं ".    add it . सक also check for other auxes also   DONE
+
+11. No rule for having था after auxiliary जाना ( जा + ना ). case : " ... वापस चले जाना था ".  add it .  DONE
+
+12. No rule for having चाह after auxiliary जाना ( जा + ना ). case : " ... किया जाना चाहिए ".    add as token .  DONE
+
+13. No rule for having चुक after auxiliary जा ( जा + Null ). case : " ... ठहराया जा चुका है ".    add it and check for सक also . DONE
+
+14. रख has no entry in Aux-suffix-next-aux-Rules. : case : " ... जोड़ रखा है ".    in doubt .
+
+
+15. Stemmer problem : gives आगे as verb with root आ and suffix गे :-)     solved. (make an Irregular entry for "HO") DONE
+ 
+16. Stemmer problem : gives देंगे as verb with root दें and suffix गे :-)    solved .
+   For this particular case I think we should have an SRR like " remove   ेंगे  and add  े ".  DONE
+
+
+17. In case of " ... श्रृंखला शुरू होने वाली है " it marks होने as VM and है as VM. Reason : वाली is only PSP so VG breaks here.    PENDING
+
+18. Three cases for "उनका यह भी कहना था". I guess these can not be handled right now according to the previous discussion.
+
+
+/******************************************************************************************************/
+
+We also have got *32* errors (made by CRF) corrected. The big one are :
+
+1. " ... मांग की है ", " ... तारीफ़ की है " :  VG ( की है )  :  corrected की (PSP) and है (VM).  :   *3 *errors
+
+2. " ... करना/जाना/दिखाना  चाहते/चाहती हैं " : VG ( चाहते/चाहती हैं ) : corrected  चाहते/चाहती ( VAUX )   :  *8 *errors
+
+3. " ... रोक लगा दी है "  :  VG ( लगा दी है ) : corrected लगा ( VAUX ) : *4* errors   ( रोक is still VM as given by CRF ).
+
+
+Regards,
+Nikhilesh
+
+

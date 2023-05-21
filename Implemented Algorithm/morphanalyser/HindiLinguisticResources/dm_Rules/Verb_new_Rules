@@ -1,0 +1,116 @@
+Rules For Imperative
+ना / [x,x,x,x,x,x,x,(+imperative : +neutral)] / X
+Null / [x,x,x,x,x,x,x,(+imperative : +intimate)]/ X
+// All Verbs
+// Null / [x,x,x,x,x,x,x,+imperative] / Vc or Ve or Vii
+ ो  / [x,x,x,x,x,x,x,(+imperative : -polite)] / VC or Ve
+जिए  / [x,x,x,x,x,x,x,(+imperative : +polite)] / Vii or Vii or Vuu or Ve
+ओ  / [x,x,x,x,x,x,x,(+imperative : -polite)] / Vaa  or Vo
+इए  / [x,x,x,x,x,x,x,(+imperative : +polite)]/ Vaa or Vo or Vuu or VC 
+//इए  / [+imperative,+polite] / Vx
+
+Rules For Conjunctive
+कर  / [x,x,x,(+past,+conjunctive),+participle,x]
+
+Rules For Perfective
+आ  / [+masc,-pl,x,x,+perfect,x] / Vuu or Vo
+ा   / [+masc,-pl,x,x,+perfect,x] / VC or Vo or Vuu
+ े / [+masc,+pl,x,x,+perfect,x] / VC
+ ी  / [-masc,-pl, x,x,+perfect,x] / VC
+ ीं  / [-masc,+pl,x,x,+perfect,x] / VC or Ve or Vii
+  ें  / [-masc,+pl,x,x,+perfect,x] / VC or Ve or Vii
+या  / [+masc,-pl,x,x,+perfect,x] / Vaa or Vo or Ve or Vii or caus or trans
+//(including caus and trans)
+ए or ये  / [+masc,+pl,x,x,+perfect,x] / Vaa or Vo or caus or trans
+//(including caus and trans)
+एँ  or एं  or यें  / [+masc,+pl,x,x,+perfect,x]/ Vaa or Vo or Ve or Vii or caus or trans
+//(including caus and trans)
+ई or यी   / [-masc,+pl,x,x,+perfect,x]/ Vaa or Vo or Ve or Vii or caus or trans
+//(including caus and trans)
+ईं or यीं / [-masc,+pl,x,x,+perfect,x]/ Vaa or Vo or Ve or Vii or caus or trans
+//(including caus and trans)
+
+Rules For AGR2
+//(gender-number) after ग, त, न and other auxiliaries
+ा   / [+masc,+pl,x,x,x,x]
+  े / [+masc,+-pl,x,,x,x,x]
+ ी   / [-masc,+-pl,x,x,x,x]
+ ीं  / [-masc,+pl,x,x,x,x]
+
+Rules For Future
+ग  / [x,x,x,+future,x,x] 
+// AGR1+_+AGR2
+
+Rules For Conditional
+त  / [x,x,x,x,+conditional,x] or [x,x,x,x,(-perfect : +habitual),x] 
+// _+AGR2
+
+Rules For Infinitive
+न  / [x,x,x,+infinitive,x,x] 
+// _+AGR2
+
+Rules For Subjunctive
+//(if does not follow any other suffix) or AGR1 (person-number)
+// 1. AGR2+Future+this  2. this only (subjunctive)
+ो  / [x,x,2p,x,x,x] / VC or Ve
+ओ  / [x,x,2p,x,x,x] / Vaa or Vo or Vuu or Vii
+ ूँ  / [x,-pl,1p,x,x,x] / VC or Ve
+
+//New Rule
+ूं / [x,-pl,1p,x,x,x] / VC or Ve
+
+// ूँ  / [x,-pl,1p,x,x,x] / VC or Ve
+ऊँ or उं / [x,-pl,1p,x,x,x] / Vaa or Vo or Vuu or Vii
+
+//NEW RULE
+ऊं / [x,-pl,1p,x,x,x] / Vaa or Vo or Vuu or Vii
+
+  े  / [x,-pl,2p,+conditional,x,(+imperative : +intimate)] or [x,-pl,3p,x,x,x] / VC or Ve
+  ें  / [x,+pl,2p,x,x,(+imperative : +polite)] or [x,+pl,3p,x,x,x] / VC or Ve
+  ें  / [x,+pl,2p,x,x,(+imperative : +polite)] or [x,+pl,3p,x,x,x] / Vaa or Vo or Vuu or Vii
+ए  or ये / [x,-pl,2p,x,+infinitive,(+imperative : intimate)] or [x,-pl,3p,x,x,x] / Vaa or Vo or Vuu or Vii
+एँ  / [x,+pl,2p,x,x,(+imperative : polite)] or [x,+pl,3p,x,x,x] / Vaa or Vo or Vuu or Vii
+एं or यें / [x,+pl,null,x,x,(+imperative,polite)] or [x,+pl,(1p : 2phon : 3p),x,x,x] / Vaa or Vo or Vuu or Vii
+
+Rules For VAUX
+//Moods-and-modals
+पड़  / [x,x,x,x,x,(+deontic : +obligation)]
+चाहिए  / [x,+pl,2p,x,x,(+deontic : +necessity)]
+दे  / [x,-pl,1p,x,x,+infinitive]
+सक  / [x,x,x,x,x,(+probability : +ability)]
+पा  / [x,x,x,x,x,+ability]
+वाल  / [x,x,x,x,x,+inceptive]
+हो  / [x,x,x,x,x,+subjunctive]
+//Imperfective
+रह  / [x,x,x,x,(-perfect : -habitual),x]
+//Completive
+चुक  / [x,x,x,x,(+perfect : +completive),x]
+
+//Rules For Conjunctive
+//कर  / [x,x,x,(+past : +conjunctive),+participle,x]
+
+Rules For Readjustment
+//others
+ ी   / ि / Vii
+   े   /  ी  / Ve
+Null / ि  / VC or Vo or Vuu
+Null / इ / Vaa
+ू   /  ु / Vuu
+  े   /  ि / Ve
+  े / Null / Ve
+//agr1
+//  े / Null / Ve / <AGR1>
+//perfective
+जा  / ग / [+perfect]
+कर  /कि/ [+perfect]
+//कर  /क/ [+perfect] and [-masc]
+हो  / हु  / [+perfect] =  [x,-pl,x,+past,x,x]
+//agr2
+हो  / थ / <AGR2> =  [x,x,x,+past,x,x]
+//future
+हो  / हों / <future> = [x,+pl,x,x,x,x]
+//direct
+//हो  / हों = [x,+pl,x,x,x,x]
+हो / हूँ = [x,-pl, 1p, -past,x,x]
+हो / हैं =  [x,+pl,x, -past,x,x]
+हो / है  =  [x,-pl,x, -past,x,x]

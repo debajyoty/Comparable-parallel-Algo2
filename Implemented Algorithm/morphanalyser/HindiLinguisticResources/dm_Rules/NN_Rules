@@ -1,0 +1,18 @@
+Suffix-Rules
+Null/A/[+-pl, +-oblique]
+याँ/B/[+pl, -oblique]
+ े/D,Naa/[-pl, +oblique] or [+pl, -oblique]
+ए/D,Nyaa or D,NAa/ [-pl, +oblique] or [+pl, -oblique]
+यों/Nii or Ni or Nyaa/ [+pl, +oblique]
+ ें/C,NC/[+pl, -oblique]
+एँ/C/[+pl, -oblique]
+ों/NC or D,Naa/[+pl, -oblique]
+ओं/any/[+pl, -oblique]
+
+Readjustment-Rules
+ा / ø / D,Naa+ े or D,Naa+ों
+ ू /  ु /any_noun+एँ or ओं
+ ी / ि  / any_noun+याँ or यों
+ई /इ / any_noun+याँ or यों
+या or आ / ø /Nyaa or D,NAa + ए or यों or ओं
+

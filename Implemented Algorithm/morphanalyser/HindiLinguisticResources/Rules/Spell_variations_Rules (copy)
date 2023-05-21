@@ -1,0 +1,22 @@
+// Contains Spelling Variation Rules 
+// Format character,replacement
+ँ,ं
+ं,ँ
+़,
+ॉं,ाँ
+ड़,ड़
+ड़,ड़
+ढ़,ढ़
+ढ़,ढ़
+ज़,ज़
+ज़,ज़
+फ़,फ़
+फ़,फ़
+क़,क़
+क़,क़
+ख़,ख़
+ख़,ख़
+ओ,अो
+अो,ओ
+न्,ं
+ं,न्

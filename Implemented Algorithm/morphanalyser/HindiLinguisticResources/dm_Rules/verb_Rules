@@ -1,0 +1,83 @@
+Imperatives
+ना -> [+imperative, +neutral], VC
+ø  -> [+imperative, +intimate], Vx
+ो -> [+imperative, -polite], VC or Ve
+ओ -> [+imperative, -polite], Vx
+जिए -> [+imperative, +polite], Vii or Ve
+ए -> [+imperative, +polite]  --------------------------------  condition ??
+//इए -> [+imperative, +polite], Vx
+
+Conjunctive
+कर -> [+past, +conjunctive, +participle]   --------------------------------  condition ??
+
+Perfective 
+आ -> [+masc, -pl, x], [+perfect], Vuu
+ा  -> [+masc, -pl, x], [+perfect] , VC
+े  े  -> [+masc, +pl, x], [+perfect] , VC
+ी  -> [-masc, -pl, x], [+perfect] , VC
+ीं  -> [-masc, +pl, x], [+perfect] , VC
+या  -> [+masc, -pl, x], [+perfect] , Vx (including caus and trans)
+ए or ये -> [+masc, +pl, x], [+perfect] , Vx (including caus and trans) 
+ई or यी  -> [-masc, +pl, x], [+perfect] , Vx (including caus and trans) 
+ईं or यीं-> [-masc, +pl, x], [+perfect] , Vx (including caus and trans) 
+
+AGR2 (gender-number) after ग, त, न and other auxiliaries
+ा  -> [+masc, -pl]
+े  े -> [+masc, +pl]
+ी  -> [-masc, +-pl]
+ीं -> [-masc, +pl]
+
+Future
+ग -> [+future]/ AGR1_+AGR2
+
+Conditional
+त -> [+conditional] or [-perfect, +habitual] / _+AGR2
+
+Infinitive
+न -> [+infinitive] / _+AGR2
+
+Subjunctive (if does not follow any other suffix) or AGR1 (person-number)
+ो -> [x, x, 2p], VC or Ve
+ओ -> [x, x, 2p], Vx
+ूँ -> [x, -pl, 1p], VC
+ऊँ -> [x, -pl, 1p], Vx
+े -> [x, -pl, 2p intimate] or [x, -pl, 3p], VC
+ें -> [x, +pl, 2p polite] or [x, +pl, 3p], VC
+ए [x, -pl, 2p intimate] or [x, -pl, 3p], Vx
+एँ -> [x, +pl, 2p polite] or [x, +pl, 3p], Vx
+
+
+Moods and modals (VAUX)
+पड़ -> [+deontic, +obligation] 
+चाहिए -> [+deontic, +necessity]
+दे -> [+permissive] 
+सक -> [+probability] or [+ability]
+पा -> [+ability]
+वाल -> [+inceptive]
+हो -> [+subjunctive]
+
+Imperfective (VAUX)
+रह -> [-perfect, -habitual]
+
+Completive )VAUX)
+चुक -> [+perfect, +completive]
+
+Conjunctive
+कर -> [+past, +conjunctive, +participle]
+
+
+
+Readjustment Rules
+ी  -> ि / Vii
+Null -> ि/ VC
+Null -> इ/ Vaa, Vo, Vuu
+ू  -> ु / Vuu
+े  -> ि / Ve
+े  -> ø  / Ve +AGR1
+जा -> ग / [+perfect]
+कर -> क or कि/  [+perfect]
+हो -> हूँ = [-pl, 1p] , [-past]
+हो -> हैं =  [+pl] , [-past]
+हो -> है  =  [-pl], [-past]
+हो -> हु  / [+perfect] =  [-pl], [+past]
+हो -> थ / AGR2 =  [+past]

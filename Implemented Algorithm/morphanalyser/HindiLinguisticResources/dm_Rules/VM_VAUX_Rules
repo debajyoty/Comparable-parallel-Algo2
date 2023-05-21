@@ -1,0 +1,88 @@
+Rules For Imperatives
+ना / [+imperative, +neutral] 
+Null / [+imperative, +intimate]/ Vx
+Null / [+imperative] / Vc or Ve or Vii
+ो  / [+imperative, -polite] / VC or Ve
+ओ  / [+imperative, -polite] / Vx
+जिए  / [+imperative, +polite] / Vii or Ve
+ए  / [+imperative, +polite] / Vx
+//इए  / [+imperative, +polite] / Vx
+
+Rules For Conjunctive
+कर  / [+past, +conjunctive, +participle]
+
+Rules For Perfective 
+आ  / [+masc, -pl, +perfect] / Vuu
+ा   / [+masc, -pl, +perfect] / VC
+  ेे / [+masc, +pl, +perfect] / VC
+ी   / [-masc, -pl, +perfect] / VC
+ीं   / [-masc, +pl, +perfect] / VC
+या   / [+masc, -pl, +perfect] / Vx (including caus and trans)
+ए or ये  / [+masc, +pl, +perfect] / Vx (including caus and trans) 
+ई or यी   / [-masc, +pl, +perfect] / Vx (including caus and trans) 
+ईं or यीं / [-masc, +pl, +perfect] / Vx (including caus and trans) 
+
+Rules For AGR2
+//(gender-number) after ग, त, न and other auxiliaries
+ा   / [+masc, -pl]
+  ेे / [+masc, +pl]
+ी   / [-masc, +-pl]
+ीं  / [-masc, +pl]
+
+Rules For Future
+ग  / [+future]/ AGR1_+AGR2
+
+Rules For Conditional
+त  / [+conditional] or [-perfect, +habitual] / _+AGR2
+
+Rules For Infinitive
+न  / [+infinitive] / _+AGR2
+
+Rules For Subjunctive 
+//(if does not follow any other suffix) or AGR1 (person-number)
+// 1. AGR2+Future+this  2. this only (subjunctive)
+ो  / [x, x, 2p] / VC or Ve
+ओ  / [x, x, 2p] / Vx
+ूँ  / [x, -pl, 1p] / VC
+ऊँ  / [x, -pl, 1p] / Vx
+े  / [x, -pl, 2p, intimate] or [x, -pl, 3p] / VC
+ें  / [x, +pl, 2p, polite] or [x, +pl, 3p] / VC
+ए [x, -pl, 2p, intimate] or [x, -pl, 3p] / Vx
+एँ  / [x, +pl, 2p, polite] or [x, +pl, 3p] / Vx
+
+
+Rules For Moods and modals 
+//(VAUX)
+पड़  / [+deontic, +obligation] 
+चाहिए  / [+deontic, +necessity]
+दे  / [+permissive] 
+सक  / [+probability] or [+ability]
+पा  / [+ability]
+वाल  / [+inceptive]
+हो  / [+subjunctive]
+
+Rules For Imperfective 
+//(VAUX)
+रह  / [-perfect, -habitual]
+
+Rules For Completive 
+//(VAUX)
+चुक  / [+perfect, +completive]
+
+//Rules For Conjunctive
+//कर  / [+past, +conjunctive, +participle]
+
+Rules For Readjustment
+ी   / ि / Vii
+Null  / ि  / VC
+Null  / इ/ Vaa, Vo, Vuu
+ू   / ु / Vuu
+े   / ि / Ve
+े   / Null / Ve +AGR1
+जा  / ग / [+perfect]
+कर  / क or कि/  [+perfect]
+हो  / हूँ = [-pl, 1p, -past]
+हो  / हैं =  [+pl, -past]
+हो  / है  =  [-pl, -past]
+हो  / हु  / [+perfect] =  [-pl, +past]
+हो  / थ / AGR2 =  [+past]

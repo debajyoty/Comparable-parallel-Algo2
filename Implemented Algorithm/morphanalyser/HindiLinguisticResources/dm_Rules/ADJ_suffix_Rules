@@ -1,0 +1,33 @@
+ ा /  ी / C / [-masc : +-obl, +-pl] /  ी
+//(example: achchii - achchaa)
+
+//ा /  ा / C / [+masc : +-obl, +-pl] /  ा
+//New_Rule_1_(+masc)
+
+ ा/  े / C / [+masc : +obl, -pl] /  े
+//(example: achche - achchaa)
+
+ा/  े / C / [+masc : -obl, +pl] /  े
+//(example: achche - achchaa)
+
+ø / ा / B / [-masc : +-obl, +-pl] / ा
+//(example: mahodayaa - mahoday or abalaa - abal)
+Null / ा / B / [-masc : +-obl, +-pl] / ा
+
+//
+//Null/Null/A/ [ : +-obl, +-pl] / Null
+Null/Null/A/ [ : +-obl, +-pl] / Null
+//New_Rule_2_(Null Categories)
+
+//Null/Null/A/ [+masc : +-obl, +-pl] / Null
+//Null/Null/A/ [-masc : +-obl, +-pl] / Null
+//(no inflection for A class adjectives)
+
+Null/Null/B/ [+masc : +-obl, +-pl] / Null
+
+Null/Null/C/ [+masc : -obl, -pl] / Null
+
+//By Smriti over phone : --
+//C +,-,-
+//B +,+-pl,+-obl
+ 

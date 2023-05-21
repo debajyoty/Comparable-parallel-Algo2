@@ -1,0 +1,22 @@
+// Compound_Rules - The file contain the rules for the compound words. -- Ankit Bahuguna
+//0				/1   			/2		/ 3                    	/  4
+//suffixToAdd			/suffixToDelete		/clas		/morphAnalysis		/suffixObserved
+
+ ा /  ी / C / [-masc : +-obl, +-pl] /  ी
+//(example: achchii - achchaa)
+
+ ा/  े / C / [+masc : +obl, +-pl] /  े
+//(example: achche - achchaa)
+
+ ा/  े / C / [+masc : -obl, +pl] /  े
+//(example: achche - achchaa)
+
+Null/ Null / C / [+masc : -obl, -pl] / Null
+
+Null/ ना / C / [+masc : -obl, -pl] / ना
+
+Null/  ी / C / [-masc : +-obl, +-pl] /  ी
+
+//Null/  े / C / [+masc : +obl, -pl] /  े
+
+Null/  ते / C / [+masc : x , +pl] /  ते

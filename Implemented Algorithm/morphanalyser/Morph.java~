@@ -1,0 +1,19 @@
+import dm_ma_iitb.HindiAnalyser;
+import py4j.GatewayServer;
+/**
+ * Created by navneet on 16/6/17.
+ */
+public class Morph {
+    public static void main(String[] args){
+
+        HindiAnalyser hindiAnalyser = new HindiAnalyser("hindiConfig");
+        GatewayServer gatewayServer = new GatewayServer(hindiAnalyser);
+        gatewayServer.start();
+//        String[] roots=hindiAnalyser.analyse("चलना").getRoots();
+//        for (String root:roots
+//             ) {
+//            System.out.println(root);
+//
+//        }
+    }
+}

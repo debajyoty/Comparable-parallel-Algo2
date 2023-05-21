@@ -1,0 +1,311 @@
+//* ************************************************************************ */
+//add a field which indicates the applicability on stem/root
+//verify rules
+//add more rules
+// fourth field :  0 = suffix can only be applied to root word, 
+// 1 = suffix can be applied to stem also.
+// 2 = suffix can only be applied to stem.
+//* ************************************************************************ */
+verb,1, ो, 0
+verb,1, ों, 0
+verb,1, ैं, 0
+verb,1, ूं, 0
+verb,1, ूँ, 0
+verb,1, ोगा, 0
+verb,1, ोगी, 0
+verb,1, ोंगे, 0
+verb,1, एंगें , 0
+verb,1, ोंगी, 0
+verb,1, ूंगा, 0
+verb,1, ूँगा, 0
+verb,1, ूंगी, 0
+verb,1, ूँगी, 0
+verb,1, ोऊंगा, 0
+verb,1, ोऊँगा, 0
+verb,1, ुआ, 0
+verb,1, ुए, 0
+verb,1, ुये, 0
+verb,1, ुई, 0
+verb,1, ुईं, 0
+verb,1, ुयी, 0
+verb,1, ुयीं, 0
+verb,1, ूँ, 0
+verb,1,ऊँ, 0
+verb,1, ो, 0
+verb,1, िए, 0
+verb,1, िये, 0
+verb,1,ओ, 0
+verb,1,इए, 0
+verb,1,इये, 0
+verb,1,जिये, 0
+verb,1,जिए, 0
+verb,1,ता, 0
+verb,1,ती, 0
+verb,1,ते, 0
+verb,1,तीं, 0
+
+verb,1, ूंगा, 0
+verb,1, ेंगे, 0
+verb,1, ंगे, 0
+verb,1, ंगी, 0
+verb,1, ं, 0
+verb,1, ूंगी, 0
+verb,1, ूँगी, 0
+verb,1, ूँगा, 0
+verb,1,ऊंगा, 0
+verb,1,एंगीं, 0
+verb,1,एँगे, 0
+verb,1,एँगीं, 0
+verb,1,ऊंगी, 0
+verb,1,ऊँगी, 0
+verb,1,ऊँगा, 0
+verb,1, ेंगी, 0
+verb,1, ेगा, 0
+verb,1, ेगी, 0
+verb,1, ेंगे, 0
+verb,1,एंगी, 0
+verb,1,एगा, 0
+verb,1,एगी, 0
+verb,1,एंगे, 0
+verb,1,येगा, 0
+verb,1,येगी, 0
+verb,1,येंगी, 0
+verb,1,येंगे, 0
+verb,1, ोगे, 0
+verb,1,ओगे, 0
+verb,1, ोगी, 0
+verb,1,ओगी, 0
+verb,1,या, 1
+verb,1,यी, 1
+verb,1,ई, 1
+verb,1, िया, 0
+verb,1, िया, 0
+verb,1,ये, 1
+verb,1,यें, 0
+verb,1,ए, 1
+verb,1,एँ, 0
+verb,1,ईं, 1
+verb,1,यीं, 1
+verb,1,ना, 0
+verb,1,ने, 0
+verb,1,नी, 0
+verb,1, ा, 0
+verb,1, ी, 1
+verb,1, े, 0
+verb,1, ीं, 1
+verb,1, ें, 0
+verb,1, ुआ, 0
+verb,1, ुई, 0
+verb,1, ुईं, 0
+verb,1, ुया, 0
+verb,1, ुये, 0
+verb,1,कर, 0
+
+verb,1, ो, 0
+verb,1, ों, 0
+verb,1, ैं, 0
+verb,1, ूं, 0
+verb,1, ूँ, 0
+verb,1, ोगा, 0
+verb,1, ोगी, 0
+verb,1, ोंगे, 0
+verb,1, ोंगी, 0
+verb,1, ूंगा, 0
+verb,1, ूँगा, 0
+verb,1, ूंगी, 0
+verb,1, ूँगी, 0
+verb,1, ोऊंगा, 0
+verb,1, ोऊँगा, 0
+verb,1, ुआ, 0
+verb,1, ुये, 0
+verb,1, ुई, 0
+verb,1, ुईं, 0
+verb,1, ुयी, 0
+verb,1, ुयीं, 0
+
+verb,1,गा, 2
+verb,1,गी, 2
+verb,1,गे, 2
+verb,1,गी, 2
+
+noun,1, ों, 0
+noun,1, े, 0
+noun,1, ों, 0
+noun,1, ें, 0
+noun,1, ों, 0
+noun,1, े, 0
+noun,1, ों, 0
+noun,1,ओं, 0
+noun,1, े, 0
+noun,1,एँ, 0
+noun,1,ओं, 0
+noun,1,याँ, 0
+noun,1,यों, 0
+noun,1,यों, 0
+noun,1,याँ, 0
+noun,1,यों, 0
+noun,1, ियों, 0
+noun,1, ियाँ, 0
+noun,1, ियों, 0
+noun,1,इयाँ, 0
+noun,1,इयों, 0
+noun,1,एँ, 0
+noun,1,अों, 0
+noun,1,अों, 0
+noun,1, ुअों, 0
+noun,1, ुएँ, 0
+noun,1, ुअों, 0
+noun,1,एं, 0
+noun,1,ओं, 0
+noun,1,एँ, 0
+noun,1,अों, 0
+noun,1, ुअों, 0
+noun,1,एँ, 0
+noun,1,वों, 0
+noun,1, ेपन, 0
+
+//for english plural forms
+noun,1,स, 0
+noun,1,ेस, 0
+noun,1,्स, 0
+noun,1,ज़, 0
+noun,1,ेज़, 0
+
+//for english plural forms
+nst,1,स, 0
+nst,1,ेस, 0
+nst,1,्स, 0
+nst,1,ज़, 0
+nst,1,ेज़, 0
+
+adjective,1, ी, 0
+adjective,1, े, 0
+adjective,1,ई, 0
+
+ordinal,1, ी, 0
+ordinal,1, े, 0
+ordinal,1,ई, 0
+ordinal,1,वां, 0
+ordinal,1,वें, 0
+ordinal,1,वीं, 0
+ordinal,1,वाँ, 0
+
+particle,1, े, 0
+particle,1, ी, 0
+cardinal,1, ों, 0
+
+verb_aux,1, ो, 0
+verb_aux,1, ों, 0
+verb_aux,1, ैं, 0
+verb_aux,1, ूं, 0
+verb_aux,1, ूँ, 0
+verb_aux,1, ोगा, 0
+verb_aux,1, ोगी, 0
+verb_aux,1, ोंगे, 0
+verb_aux,1, ोंगी, 0
+verb_aux,1, ूंगा, 0
+verb_aux,1, ूँगा, 0
+verb_aux,1, ूंगी, 0
+verb_aux,1, ूँगी, 0
+verb_aux,1, ोऊंगा, 0
+verb_aux,1, ोऊँगा, 0
+verb_aux,1, ुआ, 0
+verb_aux,1, ुए, 0
+verb_aux,1, ुये, 0
+verb_aux,1, ुई, 0
+verb_aux,1, ुईं, 0
+verb_aux,1, ुयी, 0
+verb_aux,1, ुयीं, 0
+verb_aux,1, ूँ, 0
+verb_aux,1,ऊँ, 0
+verb_aux,1, ो, 0
+verb_aux,1, िए, 0
+verb_aux,1, िये, 0
+verb_aux,1,ओ, 0
+verb_aux,1,इए, 0
+verb_aux,1,इये, 0
+verb_aux,1,जिये, 0
+verb_aux,1,जिए, 0
+verb_aux,1,ता, 0
+verb_aux,1,ती, 0
+verb_aux,1,ते, 0
+verb_aux,1,तीं, 0
+verb_aux,1, ूंगा, 0
+verb_aux,1, ेंगे, 0
+verb_aux,1, ूंगी, 0
+verb_aux,1, ूँगी, 0
+verb_aux,1, ूँगा, 0
+verb_aux,1,ऊंगा, 0
+verb_aux,1,एंगीं, 0
+verb_aux,1,एँगे, 0
+verb_aux,1,एँगीं, 0
+verb_aux,1,ऊंगी, 0
+verb_aux,1,ऊँगी, 0
+verb_aux,1,ऊँगा, 0
+verb_aux,1, ेंगी, 0
+verb_aux,1, ेगा, 0
+verb_aux,1, ेगी, 0
+verb_aux,1, ेंगे, 0
+verb_aux,1,एंगी, 0
+verb_aux,1,एगा, 0
+verb_aux,1,एगी, 0
+verb_aux,1,एंगे, 0
+verb_aux,1,येगा, 0
+verb_aux,1,येगी, 0
+verb_aux,1,येंगी, 0
+verb_aux,1,येंगे, 0
+verb_aux,1, ोगे, 0
+verb_aux,1,ओगे, 0
+verb_aux,1, ोगी, 0
+verb_aux,1,ओगी, 0
+verb_aux,1,या, 1
+verb_aux,1,यी, 1
+verb_aux,1,ई, 1
+verb_aux,1, िया, 0
+verb_aux,1, िया, 0
+verb_aux,1,ये, 1
+verb_aux,1,यें, 0
+verb_aux,1,ए, 1
+verb_aux,1,एँ, 0
+verb_aux,1,ईं, 1
+verb_aux,1,यीं, 1
+verb_aux,1,ना, 0
+verb_aux,1,ने, 0
+verb_aux,1,नी, 0
+verb_aux,1, ा, 0
+verb_aux,1, ी, 1
+verb_aux,1, े, 0
+verb_aux,1, ीं, 1
+verb_aux,1, ें, 0
+verb_aux,1, ुआ, 0
+verb_aux,1, ुई, 0
+verb_aux,1, ुईं, 0
+verb_aux,1, ुया, 0
+verb_aux,1, ुये, 0
+
+verb_aux,1, ो, 0
+verb_aux,1, ों, 0
+verb_aux,1, ैं, 0
+verb_aux,1, ूं, 0
+verb_aux,1, ूँ, 0
+verb_aux,1, ोगा, 0
+verb_aux,1, ोगी, 0
+verb_aux,1, ोंगे, 0
+verb_aux,1, ोंगी, 0
+verb_aux,1, ूंगा, 0
+verb_aux,1, ूँगा, 0
+verb_aux,1, ूंगी, 0
+verb_aux,1, ूँगी, 0
+verb_aux,1, ोऊंगा, 0
+verb_aux,1, ोऊँगा, 0
+verb_aux,1, ुआ, 0
+verb_aux,1, ुये, 0
+verb_aux,1, ुई, 0
+verb_aux,1, ुईं, 0
+verb_aux,1, ुयी, 0
+verb_aux,1, ुयीं, 0
+
+verb_aux,1,गा, 2
+verb_aux,1,गी, 2
+verb_aux,1,गे, 2
+verb_aux,1,गी, 2

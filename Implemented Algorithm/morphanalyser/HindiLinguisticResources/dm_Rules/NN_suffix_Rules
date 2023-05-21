@@ -1,0 +1,37 @@
+Null/A,X,X/[+-pl, -oblique]
+याँ/B,X,X / [+pl, -oblique]
+// By Smriti on 27th April 2009 //
+यां/B,X,X/[+pl, -oblique]
+///////////////////////////////
+ े/D,X,Naa/ [-pl, +oblique]
+ े/D,X,Naa/ [+pl, -oblique]
+ए/D,X,Naa/[+pl, -oblique]
+ए/D,X,Nyaa/[-pl, +oblique]
+ए/D,X,Nyaa/[-pl, +oblique]
+ए/D,X,NAa/[+pl, -oblique]
+// By Smriti on 27th April 2009 //
+ये/D,X,Nyaa/[-pl, -oblique]
+ये/D,X,NAa/[-pl, +oblique]
+ये/D,X,Nyaa/[-pl, +oblique]
+ये/D,X,NAa/[+pl, -oblique]
+///////////////////////////////
+यों/X,X,Nii / [+pl, +oblique]
+यों/X,X,Ni / [+pl, +oblique]
+यों/X,X,Nyaa/ [+pl, +oblique]
+ ें/C,X,NC/[+pl, -oblique]
+एँ/C,X,X/[+pl, -oblique]
+एं/C,X,X/[+pl, -oblique]
+// By Smriti on 27th April 2009 //
+यें/C,X,X/[+pl, -oblique]
+///////////////////////////////
+ों/X,X,NC /[+pl, +oblique]
+ों/D,X,Naa/[+pl, +oblique]
+ओं/C,X,X/[+pl, +oblique]
+ओं/E,X,X/[+pl, +oblique]
+////////////////////////////
+स/F,X,X/[+pl,-oblique]
+ेस/F,X,X/[+pl,-oblique]
+्स/F,X,X/[+pl,-oblique]
+ज़/F,X,X/[+pl,-oblique]
+्ज़/F,X,X/[+pl,-oblique]
+ेज़/F,X,X/[+pl,-oblique]

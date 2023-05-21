@@ -1,0 +1,17 @@
+//* ************************************************************************ */
+//verify rules
+// delete rules
+//add more rules ( only "JA" and "KAR" )
+//* ************************************************************************ */
+
+
+// Irregular verb mapping
+// format a,b
+// a is the stem after removal of suffix
+// b is the actual verb to which stem is to be mapped
+ग, जा, verb, verb
+ग, जा, vaux, verb_aux
+कि, कर, verb, verb
+क, कर, verb, verb
+हो, हो, verb, verb
+हो, हो, vaux, verb_aux

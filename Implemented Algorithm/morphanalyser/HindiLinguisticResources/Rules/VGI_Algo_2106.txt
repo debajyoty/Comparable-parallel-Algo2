@@ -1,0 +1,53 @@
+check for Co-Verbs
+if found
+	mark this as VM
+	mark next as VAUX
+	start VG at next
+
+if possessive pronoun found and next is not only verb
+	skip next one
+
+if Continue VG is false and isVM
+	start VG here
+	check for Adverbial suffix pair
+	if true
+		mark this as VM
+		mark next as VAUX
+		End VG
+	if next is not VAUX
+		check for Reduplication
+		if found
+			mark this as VM
+			mark next as VAUX
+			End VG
+		else if this is only VM
+			mark as VM
+			End VG
+	else //next is VAUX
+		if this has no VM suffix
+			if next token is in TenseCasesList
+				Start VG here
+		else //this has suffix
+			if NextAuxisAllowedAfterThisVM
+				Start VG here
+			else
+				if this has adverbial VM suffix
+					mark as VM
+					End VG here
+				else
+					Abort VG
+else if Continue VG is true and isVAUX
+	if next is VAUX
+		if next aux is allowed after this aux
+			Continue VG
+		else if this has adverbial aux suffix
+			mark this as VAUX
+			End VG here
+		else
+			Abort VG
+	else
+		if this is a CanEndToken
+			mark this as VAUX
+			End VG here
+		else
+			Abort VG

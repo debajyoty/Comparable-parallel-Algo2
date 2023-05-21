@@ -1,0 +1,139 @@
+//* ************************************************************************ */
+//add suffix field
+//verify rules
+//add more rules
+//* ************************************************************************ */
+
+//Examples are पी, सी
+verb,verb, ी ,,,,1,िया, या
+verb,verb, ी ,,,,1,िए, ए
+verb,verb, ी ,,,,1,िये, ये
+verb,verb, ी ,,,,1,ियेगा,येगा
+verb,verb, ी ,,,,1,ियेगी,येगी
+verb,verb, ी ,,,,1,ियेंगे,येंगे
+verb,verb, ी ,,,,1,ियें,यें
+verb,verb, ी ,,,,1,ियेंगी,येंगी 
+verb,verb, ी ,,,,1,िएगा,एगा
+verb,verb, ी ,,,,1,िऊंगा,ऊंगा
+verb,verb, ी ,,,,1,िऊँगा,ऊँगा
+verb,verb, ी ,,,,1,िएगी,एगी
+verb,verb, ी ,,,,1,िएंगे,एंगे
+verb,verb, ी ,,,,1,िएं,एं
+verb,verb, ी ,,,,1,िएंगी,एंगी
+verb,verb, ी ,,,,1,िऊँ,ऊँ
+verb,verb, ी ,,,,1,िऊंगी,ऊंगी
+verb,verb, ी ,,,,1,िऊँगी,ऊँगी
+
+//Example : की --> कर
+//verb,verb,र,,,,1, ी, ी
+
+//Examples are छू
+verb,verb, ू ,,,,1,ुआ, आ
+verb,verb, ू ,,,,1,ुए, ए
+verb,verb, ू ,,,,1,ुये, ये
+verb,verb, ू ,,,,1,ुई, ई
+verb,verb, ू ,,,,1,ुईं, ईं
+verb,verb, ू ,,,,1,ुयी, यी
+verb,verb, ू ,,,,1,ुयीं, यीं
+verb,verb, ू ,,,,1,ुएगा, एगा
+verb,verb, ू ,,,,1,ुएगी, एगी
+verb,verb, ू ,,,,1,ुएंगे, एंगे
+verb,verb, ू ,,,,1,ुएंगी, एंगी
+
+
+// Examples are दे, ले
+verb,verb, े ,,,,1,िए, ए
+verb,verb, े ,,,,1,िये, ये
+verb,verb, े ,,,,1,िया, या
+verb,verb, े ,,,,1, ूंगा, ूंगा
+verb,verb, े ,,,,1, ूँगा, ूंगा
+verb,verb, े ,,,,1, ूंगी, ूंगी
+verb,verb, े ,,,,1, ूँगी, ूंगी
+verb,verb, े ,,,,1, ी, ी
+verb,verb, े ,,,,1, ो, ो
+
+verb_aux,vaux, े ,,,,1,िए, ए
+verb_aux,vaux, े ,,,,1,िये, ये
+verb_aux,vaux, े ,,,,1,िया, या
+verb_aux,vaux, े ,,,,1, ूंगा, ूंगा
+verb_aux,vaux, े ,,,,1, ूँगा, ूंगा
+verb_aux,vaux, े ,,,,1, ूंगी, ूंगी
+verb_aux,vaux, े ,,,,1, ूँगी, ूंगी
+verb_aux,vaux, े ,,,,1, ी, ी
+verb_aux,vaux, े ,,,,1, ो, ो
+
+//Example है
+verb,verb, ै ,,,,1,ुआ, आ 
+verb,verb, ै,,,,1,ुए, ए
+verb,verb, ै,,,,1,ुये, ये
+verb,verb, ै,,,,1,ुई, ई
+verb,verb, ै,,,,1,ुईं, ईं
+verb,verb, ै,,,,1,ुयी, यी
+verb,verb, ै,,,,1,ुयीं, यीं
+
+
+//verb_aux,vaux, ै ,,,,1
+//verb_aux,vaux,,,,,1
+verb_aux,vaux, ै ,,,,1,ुआ, आ
+verb_aux,vaux, ै,,,,1,ुए, ए
+verb_aux,vaux, ै,,,,1,ुये, ये
+verb_aux,vaux, ै,,,,1,ुई, ई
+verb_aux,vaux, ै,,,,1,ुईं, ईं
+verb_aux,vaux, ै,,,,1,ुयी, यी
+verb_aux,vaux, ै,,,,1,ुयीं, यीं
+
+//verb,copula, ै ,,,,1
+
+noun,घर,,,,,1, ों, ों
+noun,खर्च,,,,,1, े, े
+noun,खर्च,,,,,1, ों, ों
+noun,रात,,,,,1, ें, ें
+noun,रात,,,,,1, ों, ों
+noun,लड़का, ा,,,,1, े, े
+noun,लड़का, ा,,,,1, ों, ों
+noun,राजा,,,,,1, ओं,ओं
+noun,लोहा, ा,,,,1, े, े
+noun,आशा,,,,,1, एँ,एँ
+noun,आशा,,,,,1, यें,यें
+noun,आशा,,,,,1, ओं,ओं
+noun,गुड़िया, या ,,,,1, याँ,याँ
+noun,गुड़िया, या ,,,,1, यों,यों
+noun,कवि,,,,,1, यों,यों
+noun,आपत्ति,,,,,1, याँ,याँ
+noun,आपत्ति,,,,,1, यों,यों
+noun,आदमी, ी ,,,,1, ियों,यों
+noun,लड़की, ी ,,,,1, ियाँ,याँ
+noun,लड़की, ी ,,,,1, ियों,यों
+noun,लड़की, ई ,,,,1, इयाँ,याँ
+noun,लड़की, ई ,,,,1, इयों,यों
+noun,ऋतु,,,,,1, एँ,एँ
+noun,ऋतु,,,,,1, अों,अों
+noun,शत्रु,,,,,1, अों,अों
+noun,आलू, ू ,,,,1, ुअों,अों
+noun,बहु, ू ,,,,1, ुएँ,एँ
+noun,बहु, ू ,,,,1, ुअों,अों
+noun,माँ,,,,,1, एं,एं
+noun,माँ,,,,,1, ओं,ओं
+noun,कुआँ, आँ ,,,,1, एँ,एँ
+noun,कुआँ, आँ ,,,,1, अों,अों
+noun,गेहूँ, ूँ ,,,,1, ुअों,अों
+noun,लौ,,,,,1, एँ,एँ
+noun,लौ,,,,,1, वों,वों
+noun,अपनापन, ापन ,,,,1, ेपन,पन
+//noun,ex_noun,,,,,1,Null
+//noun,foreign,,,,,1,Null
+//noun,ईर्ष्या,,,,,1,Null
+
+adjective,adjective, ा ,,,,1, ी, ी
+adjective,adjective, ा ,,,,1, े, े
+adjective,adjective, या ,,,,1, ई,ई
+ordinal,ordinal, ा ,,,,1, ी, ी
+ordinal,ordinal, ा ,,,,1, े, े
+ordinal,ordinal, या ,,,,1, ई,ई
+ordinal,ordinal,  ,,,,1, वां,वां
+ordinal,ordinal,  ,,,,1, वें,वें
+ordinal,ordinal,  ,,,,1, वीं,वीं
+ordinal,ordinal,  ,,,,1, वाँ,वाँ
+particle,particle, ा,,,,1, े, ा,,,,1
+particle,particle, ा,,,,1, ी, ा,,,,1
+cardinal,cardinal,,,,,1, ों,,,,,1
