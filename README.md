@@ -20,6 +20,6 @@ Make sure pickle folder in same directory
 
 
 
-#Cite:
+# Cite:
 Fuzzy Influenced Process to Generate Comparable to Parallel Corpora
 DEBAJYOTY BANIK, ASIF EKBAL, SURESH CHANDRA SATAPATHY, ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), 2023
