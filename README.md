@@ -10,6 +10,7 @@ To install all dependencies execute dependencies.sh
 First run this to use hindi stemmer:
 
 cd morphanlyser/
+
 ./run.sh 
 
 execute in new terminal
